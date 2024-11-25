@@ -15,7 +15,7 @@ Graphics project with keypress drawing controls with the ability![Etch-A-Sketch]
 ![Timeline (Historic Computer System)](https://github.com/user-attachments/assets/8d5ec8ba-7daa-4ff9-b653-1b6517cbe865) 
 [Source Code]()
 
-###Space Game
+Space Game
 Description: OOP solution or a collision-based space-themed game.
 [SpaceGame 4.pde.zip](https://github.com/user-attachments/files/17905629/SpaceGame.4.pde.zip)
 
