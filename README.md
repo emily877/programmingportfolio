@@ -19,5 +19,6 @@ Space Game
 Description: OOP solution or a collision-based space-themed game.
 
 [Source Code](https://github.com/emily877/programmingportfolio/tree/main/src/SpaceGame)
+![Screenshot 2024-11-25 at 9 48 15 AM](https://github.com/user-attachments/assets/ae331a14-19c2-4bbc-b108-25e362dce5c4)
 
 
